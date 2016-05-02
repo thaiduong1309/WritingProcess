@@ -10,17 +10,20 @@
 
 
 For decades, scientists and engineers have studied to find a renewable, green energy to replace fossil fuel as they’re running out. One of the most potential green energy supply we already know is solar energy. But we do not really take full advantage of this source. 
-This poster will show how we can “harvest” the energy from our Sun in a much more effective way by bringing the solar panel into space, out of Earth atmosphere.
+This document will show how we can “harvest” the energy from our Sun in a much more effective way by bringing the solar panel into space, out of Earth atmosphere.
+// Do not explain too much.
 The solar panels are made of solar cells (a small disk of a semiconductor like silicon). They are attached by wire to a circuit. As light strikes the semiconductor, light is converted into electricity that flows through the circuit. They are called "solar" panels because, the most powerful source of light available is our Sun.
 However, the amount of Sun's light reach to terrestrial solar on Earth's surface is mostly restrict from the clouds, atmosphere and nighttime (Figure1). Satellite-based solar panels, in the other hand, are available 24 hours a day, seven days a week, in huge quantities. It works regardless of cloud cover, daylight
 The Space Solar Power Systems (SSPS) project is a space-based solar power plant that generates energy by collecting sunlight in geostationary orbit. The energy is then transmitted to the ground, and converted into electricity and hydrogen for practical use. [2]
 In other to gather the most quantities of energy, solar power generation farm must be an enormous in-orbit construction and operations, far larger than the international Space Station (ISS), the largest spacecraft human ever built. Fortunately, most of the parts from this solar power satellites will be identical. The figure below will show you a sample design model of this generator once it out in space.
 
+//14. Avoid fancy words.
 There are two main components involve in the SSPS system. 
 1)	 A Generation with solar panel out in space
 2)	The power receiving on Earth’s surface.
 Solar space farm provide a huge amount of energy as it can transmit up to 1GW per receiver enough for a large city[3]
 
+//8. Avoid the use of qualifiers.
 And more importantly, different from oil, gas, ethanol, and coal plants, space solar power barely emits any of the greenhouse gas effect  which reduce the concern about global warming.
 Their effectiveness decreases around 1 to 2 percent a year. This means after a five year mission (boldly going where no probe has gone before), the solar panels will still be making more than 90% of what they made at the beginning of the mission
 
